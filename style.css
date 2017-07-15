@@ -7,6 +7,7 @@ header{
 
 body{
   background: lightgrey;
+  font-family: "Courier New", monospace; 
 }
 
 img{
@@ -19,3 +20,5 @@ img{
 section {
   clear: both;
 }
+
+
